@@ -4,3 +4,6 @@
 [submodule "macropad-pcb/keyboard_parts.pretty"]
 	path = macropad-pcb/keyboard_parts.pretty
 	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "macropad-pcb/keebs.pretty"]
+	path = macropad-pcb/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty.git
