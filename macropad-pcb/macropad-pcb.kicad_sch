@@ -3647,7 +3647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 229.87 99.06 0)
 			(effects
 				(font
@@ -3853,7 +3853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 210.82 99.06 0)
 			(effects
 				(font
@@ -3921,7 +3921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 210.82 119.38 0)
 			(effects
 				(font
@@ -4055,7 +4055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 191.77 99.06 0)
 			(effects
 				(font
@@ -4574,7 +4574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 191.77 119.38 0)
 			(effects
 				(font
@@ -4912,7 +4912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 229.87 119.38 0)
 			(effects
 				(font
@@ -4980,7 +4980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 191.77 78.74 0)
 			(effects
 				(font
@@ -5048,7 +5048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 210.82 78.74 0)
 			(effects
 				(font
@@ -5566,7 +5566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hybrid:SW_Hybrid_Cherry_MX_Alps_1.00u"
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_1.00u"
 			(at 229.87 78.74 0)
 			(effects
 				(font
