@@ -14509,4 +14509,25 @@
 		(net 29)
 		(uuid "9933537c-b618-49eb-aa60-46b668588445")
 	)
+	(zone
+		(net 1)
+		(net_name "GND")
+		(layer "B.Cu")
+		(uuid "7d707b1e-a5da-4da9-b295-f5641346cfdc")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 100.0125 47.625) (xy 72.23125 47.625) (xy 72.23125 104.775) (xy 100.0125 104.775)
+			)
+		)
+	)
 )
